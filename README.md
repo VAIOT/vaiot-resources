@@ -7,7 +7,7 @@
 
 # VAIOT Overview
 
-VAIOT combines artificial intelligence and blockchain technology to revolutionize the Legal Sector for both consumers and businesses. Our platform leverages advanced AI algorithms in combination with the zk-snarks technology to provide seamless, and secure ways of creating legal contracts.
+VAIOT combines artificial intelligence and blockchain technology to revolutionize the Legal Sector for both consumers and businesses. Our platform leverages advanced AI algorithms in combination with the zk-snarks technology to provide seamless, and secure ways of creating, analyzing legal contracts, and providing legal knowledge to the end users.
 
 ## Quick Start Guide
 
