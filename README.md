@@ -13,6 +13,7 @@ VAIOT combines artificial intelligence and blockchain technology to revolutioniz
 
 - **Reading the Whitepaper**: Navigate to the `whitepapers/` folder to access our comprehensive whitepaper detailing VAIOT's technology, vision, and roadmap.
 - **Audit Reports**: Check out the `audits/` folder for detailed security audit reports of our smart contracts.
+- **Regulatory Compliance**: Check out the `regulations/` folder for documents regarding our regulatory compliance.
 
 ## Contact Us
 
